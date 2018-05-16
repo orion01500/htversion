@@ -1,0 +1,9 @@
+.vscode
+.idea
+*.code-workspace
+*.tmp
+*.delayed
+projects/*
+projects/*.cache
+*.py
+sites/sites.gazette..txt
